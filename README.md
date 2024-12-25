@@ -1,6 +1,6 @@
 # Image-Finder-and-Click
  This program is designed to find an image, move the mouse towards it, and click.
- This program was installed and designed to auto-click the shake button in the Roblox game "Fisch" but this could be applied to other needs.
+ This program was initially designed to auto-click the shake button in the Roblox game "Fisch" but this could be applied to other needs.
 
  Thanks to Coding 101 with Steve and Kian Brose for the basics!
  
